@@ -1,4 +1,4 @@
-﻿namespace CQRS_.ner_core.Application
+﻿namespace CQRS_.net_core.Application
 {
     public class Class1
     {

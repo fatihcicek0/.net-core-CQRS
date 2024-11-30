@@ -2,9 +2,17 @@
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
-    <RootNamespace>CQRS_.ner_core.Application</RootNamespace>
+    <RootNamespace>CQRS_.net_core.Application</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CQRS-.net-core.Domain\CQRS-.net-core.Domain.csproj" />
+  </ItemGroup>
 
 </Project>

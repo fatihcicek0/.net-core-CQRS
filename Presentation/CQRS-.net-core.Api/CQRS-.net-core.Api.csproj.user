@@ -4,6 +4,6 @@
     <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
   </PropertyGroup>
   <PropertyGroup>
-    <ActiveDebugProfile>CQRSApi.Production</ActiveDebugProfile>
+    <ActiveDebugProfile>CQRSApi.Development</ActiveDebugProfile>
   </PropertyGroup>
 </Project>

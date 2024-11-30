@@ -3,36 +3,20 @@
   "WorkspaceRootPath": "E:\\.net-projects\\CQRS-.net-core\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9D6B2C81-A8BC-44C7-815A-2FEAEDA572A3}|Core\\CQRS-.net-core.Domain\\CQRS-.net-core.Domain.csproj|e:\\.net-projects\\cqrs-.net-core\\core\\cqrs-.net-core.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D6B2C81-A8BC-44C7-815A-2FEAEDA572A3}|Core\\CQRS-.net-core.Domain\\CQRS-.net-core.Domain.csproj|solutionrelative:core\\cqrs-.net-core.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B1D8D2A-DC35-4D2B-8656-56D67B575DE6}|Infrastructure\\CQRS-.net-core.Persistence\\CQRS-.net-core.Persistence.csproj|e:\\.net-projects\\cqrs-.net-core\\infrastructure\\cqrs-.net-core.persistence\\repositories\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B1D8D2A-DC35-4D2B-8656-56D67B575DE6}|Infrastructure\\CQRS-.net-core.Persistence\\CQRS-.net-core.Persistence.csproj|solutionrelative:infrastructure\\cqrs-.net-core.persistence\\repositories\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D6B2C81-A8BC-44C7-815A-2FEAEDA572A3}|Core\\CQRS-.net-core.Domain\\CQRS-.net-core.Domain.csproj|e:\\.net-projects\\cqrs-.net-core\\core\\cqrs-.net-core.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D6B2C81-A8BC-44C7-815A-2FEAEDA572A3}|Core\\CQRS-.net-core.Domain\\CQRS-.net-core.Domain.csproj|solutionrelative:core\\cqrs-.net-core.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B0B0481-6006-4D6F-B7BD-EDDD46736348}|Core\\CQRS-.net-core.Application\\CQRS-.net-core.Application.csproj|e:\\.net-projects\\cqrs-.net-core\\core\\cqrs-.net-core.application\\interfaces\\repositories\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0B0481-6006-4D6F-B7BD-EDDD46736348}|Core\\CQRS-.net-core.Application\\CQRS-.net-core.Application.csproj|solutionrelative:core\\cqrs-.net-core.application\\interfaces\\repositories\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D6B2C81-A8BC-44C7-815A-2FEAEDA572A3}|Core\\CQRS-.net-core.Domain\\CQRS-.net-core.Domain.csproj|e:\\.net-projects\\cqrs-.net-core\\core\\cqrs-.net-core.domain\\entities\\detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D6B2C81-A8BC-44C7-815A-2FEAEDA572A3}|Core\\CQRS-.net-core.Domain\\CQRS-.net-core.Domain.csproj|solutionrelative:core\\cqrs-.net-core.domain\\entities\\detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B1D8D2A-DC35-4D2B-8656-56D67B575DE6}|Infrastructure\\CQRS-.net-core.Persistence\\CQRS-.net-core.Persistence.csproj|e:\\.net-projects\\cqrs-.net-core\\infrastructure\\cqrs-.net-core.persistence\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B1D8D2A-DC35-4D2B-8656-56D67B575DE6}|Infrastructure\\CQRS-.net-core.Persistence\\CQRS-.net-core.Persistence.csproj|solutionrelative:infrastructure\\cqrs-.net-core.persistence\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D6B2C81-A8BC-44C7-815A-2FEAEDA572A3}|Core\\CQRS-.net-core.Domain\\CQRS-.net-core.Domain.csproj|e:\\.net-projects\\cqrs-.net-core\\core\\cqrs-.net-core.domain\\common\\ientitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D6B2C81-A8BC-44C7-815A-2FEAEDA572A3}|Core\\CQRS-.net-core.Domain\\CQRS-.net-core.Domain.csproj|solutionrelative:core\\cqrs-.net-core.domain\\common\\ientitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D6B2C81-A8BC-44C7-815A-2FEAEDA572A3}|Core\\CQRS-.net-core.Domain\\CQRS-.net-core.Domain.csproj|e:\\.net-projects\\cqrs-.net-core\\core\\cqrs-.net-core.domain\\common\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D6B2C81-A8BC-44C7-815A-2FEAEDA572A3}|Core\\CQRS-.net-core.Domain\\CQRS-.net-core.Domain.csproj|solutionrelative:core\\cqrs-.net-core.domain\\common\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D6B2C81-A8BC-44C7-815A-2FEAEDA572A3}|Core\\CQRS-.net-core.Domain\\CQRS-.net-core.Domain.csproj|e:\\.net-projects\\cqrs-.net-core\\core\\cqrs-.net-core.domain\\entities\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D6B2C81-A8BC-44C7-815A-2FEAEDA572A3}|Core\\CQRS-.net-core.Domain\\CQRS-.net-core.Domain.csproj|solutionrelative:core\\cqrs-.net-core.domain\\entities\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D6B2C81-A8BC-44C7-815A-2FEAEDA572A3}|Core\\CQRS-.net-core.Domain\\CQRS-.net-core.Domain.csproj|e:\\.net-projects\\cqrs-.net-core\\core\\cqrs-.net-core.domain\\cqrs-.net-core.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9D6B2C81-A8BC-44C7-815A-2FEAEDA572A3}|Core\\CQRS-.net-core.Domain\\CQRS-.net-core.Domain.csproj|solutionrelative:core\\cqrs-.net-core.domain\\cqrs-.net-core.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CFA06BF-EA10-47A5-9055-992E56BFAB11}|Presentation\\CQRS-.net-core.Api\\CQRS-.net-core.Api.csproj|e:\\.net-projects\\cqrs-.net-core\\presentation\\cqrs-.net-core.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CFA06BF-EA10-47A5-9055-992E56BFAB11}|Presentation\\CQRS-.net-core.Api\\CQRS-.net-core.Api.csproj|solutionrelative:presentation\\cqrs-.net-core.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B0B0481-6006-4D6F-B7BD-EDDD46736348}|Core\\CQRS-.net-core.Application\\CQRS-.net-core.Application.csproj|e:\\.net-projects\\cqrs-.net-core\\core\\cqrs-.net-core.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0B0481-6006-4D6F-B7BD-EDDD46736348}|Core\\CQRS-.net-core.Application\\CQRS-.net-core.Application.csproj|solutionrelative:core\\cqrs-.net-core.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,111 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Product.cs",
-              "DocumentMoniker": "E:\\.net-projects\\CQRS-.net-core\\Core\\CQRS-.net-core.Domain\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "Core\\CQRS-.net-core.Domain\\Entities\\Product.cs",
-              "ToolTip": "E:\\.net-projects\\CQRS-.net-core\\Core\\CQRS-.net-core.Domain\\Entities\\Product.cs",
-              "RelativeToolTip": "Core\\CQRS-.net-core.Domain\\Entities\\Product.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T13:33:46.297Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Detail.cs",
-              "DocumentMoniker": "E:\\.net-projects\\CQRS-.net-core\\Core\\CQRS-.net-core.Domain\\Entities\\Detail.cs",
-              "RelativeDocumentMoniker": "Core\\CQRS-.net-core.Domain\\Entities\\Detail.cs",
-              "ToolTip": "E:\\.net-projects\\CQRS-.net-core\\Core\\CQRS-.net-core.Domain\\Entities\\Detail.cs",
-              "RelativeToolTip": "Core\\CQRS-.net-core.Domain\\Entities\\Detail.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAwBYAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T13:27:24.098Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Brand.cs",
-              "DocumentMoniker": "E:\\.net-projects\\CQRS-.net-core\\Core\\CQRS-.net-core.Domain\\Entities\\Brand.cs",
-              "RelativeDocumentMoniker": "Core\\CQRS-.net-core.Domain\\Entities\\Brand.cs",
-              "ToolTip": "E:\\.net-projects\\CQRS-.net-core\\Core\\CQRS-.net-core.Domain\\Entities\\Brand.cs",
-              "RelativeToolTip": "Core\\CQRS-.net-core.Domain\\Entities\\Brand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T13:19:06.512Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Category.cs",
-              "DocumentMoniker": "E:\\.net-projects\\CQRS-.net-core\\Core\\CQRS-.net-core.Domain\\Entities\\Category.cs",
-              "RelativeDocumentMoniker": "Core\\CQRS-.net-core.Domain\\Entities\\Category.cs",
-              "ToolTip": "E:\\.net-projects\\CQRS-.net-core\\Core\\CQRS-.net-core.Domain\\Entities\\Category.cs",
-              "RelativeToolTip": "Core\\CQRS-.net-core.Domain\\Entities\\Category.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Title": "ReadRepository.cs",
+              "DocumentMoniker": "E:\\.net-projects\\CQRS-.net-core\\Infrastructure\\CQRS-.net-core.Persistence\\Repositories\\ReadRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\CQRS-.net-core.Persistence\\Repositories\\ReadRepository.cs",
+              "ToolTip": "E:\\.net-projects\\CQRS-.net-core\\Infrastructure\\CQRS-.net-core.Persistence\\Repositories\\ReadRepository.cs",
+              "RelativeToolTip": "Infrastructure\\CQRS-.net-core.Persistence\\Repositories\\ReadRepository.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T13:03:24.764Z",
+              "WhenOpened": "2024-11-28T09:11:25.711Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EntityBase.cs",
-              "DocumentMoniker": "E:\\.net-projects\\CQRS-.net-core\\Core\\CQRS-.net-core.Domain\\Common\\EntityBase.cs",
-              "RelativeDocumentMoniker": "Core\\CQRS-.net-core.Domain\\Common\\EntityBase.cs",
-              "ToolTip": "E:\\.net-projects\\CQRS-.net-core\\Core\\CQRS-.net-core.Domain\\Common\\EntityBase.cs",
-              "RelativeToolTip": "Core\\CQRS-.net-core.Domain\\Common\\EntityBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "IReadRepository.cs",
+              "DocumentMoniker": "E:\\.net-projects\\CQRS-.net-core\\Core\\CQRS-.net-core.Application\\Interfaces\\Repositories\\IReadRepository.cs",
+              "RelativeDocumentMoniker": "Core\\CQRS-.net-core.Application\\Interfaces\\Repositories\\IReadRepository.cs",
+              "ToolTip": "E:\\.net-projects\\CQRS-.net-core\\Core\\CQRS-.net-core.Application\\Interfaces\\Repositories\\IReadRepository.cs",
+              "RelativeToolTip": "Core\\CQRS-.net-core.Application\\Interfaces\\Repositories\\IReadRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T13:00:18.19Z",
+              "WhenOpened": "2024-11-28T07:48:03.473Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "IEntityBase.cs",
-              "DocumentMoniker": "E:\\.net-projects\\CQRS-.net-core\\Core\\CQRS-.net-core.Domain\\Common\\IEntityBase.cs",
-              "RelativeDocumentMoniker": "Core\\CQRS-.net-core.Domain\\Common\\IEntityBase.cs",
-              "ToolTip": "E:\\.net-projects\\CQRS-.net-core\\Core\\CQRS-.net-core.Domain\\Common\\IEntityBase.cs",
-              "RelativeToolTip": "Core\\CQRS-.net-core.Domain\\Common\\IEntityBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T12:58:44.086Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CQRS-.net-core.Domain",
-              "DocumentMoniker": "E:\\.net-projects\\CQRS-.net-core\\Core\\CQRS-.net-core.Domain\\CQRS-.net-core.Domain.csproj",
-              "RelativeDocumentMoniker": "Core\\CQRS-.net-core.Domain\\CQRS-.net-core.Domain.csproj",
-              "ToolTip": "E:\\.net-projects\\CQRS-.net-core\\Core\\CQRS-.net-core.Domain\\CQRS-.net-core.Domain.csproj",
-              "RelativeToolTip": "Core\\CQRS-.net-core.Domain\\CQRS-.net-core.Domain.csproj",
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\.net-projects\\CQRS-.net-core\\Core\\CQRS-.net-core.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "Core\\CQRS-.net-core.Application\\Class1.cs",
+              "ToolTip": "E:\\.net-projects\\CQRS-.net-core\\Core\\CQRS-.net-core.Application\\Class1.cs",
+              "RelativeToolTip": "Core\\CQRS-.net-core.Application\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-26T12:58:10.868Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T07:46:31.813Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\.net-projects\\CQRS-.net-core\\Presentation\\CQRS-.net-core.Api\\Program.cs",
-              "RelativeDocumentMoniker": "Presentation\\CQRS-.net-core.Api\\Program.cs",
-              "ToolTip": "E:\\.net-projects\\CQRS-.net-core\\Presentation\\CQRS-.net-core.Api\\Program.cs",
-              "RelativeToolTip": "Presentation\\CQRS-.net-core.Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABLAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\.net-projects\\CQRS-.net-core\\Infrastructure\\CQRS-.net-core.Persistence\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\CQRS-.net-core.Persistence\\Context\\AppDbContext.cs",
+              "ToolTip": "E:\\.net-projects\\CQRS-.net-core\\Infrastructure\\CQRS-.net-core.Persistence\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\CQRS-.net-core.Persistence\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T12:44:37.922Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-27T15:25:30.243Z"
             }
           ]
         }

@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace CQRS_.net_core.Persistence.Configurations
 {
-    internal class DetailConfiguration:IEntityTypeConfiguration<Detail>
+    public class DetailConfiguration:IEntityTypeConfiguration<Detail>
     {
         public void Configure(EntityTypeBuilder<Detail> builder)
         {
@@ -28,13 +28,23 @@ namespace CQRS_.net_core.Persistence.Configurations
 
             Detail detail2 = new()
             {
-                Id = 1,
+                Id = 2,
                 Title = faker.Lorem.Sentence(1),
                 Description = faker.Lorem.Sentence(5),
                 isDeleted = false,
-                CategoryId = 1,
+                CategoryId = 2,
                 CreatedDate = DateTime.Now
             };
+            Detail detail3 = new()
+            {
+                Id = 3,
+                Title = faker.Lorem.Sentence(1),
+                Description = faker.Lorem.Sentence(5),
+                isDeleted = false,
+                CategoryId = 3,
+                CreatedDate = DateTime.Now
+            };
+            builder.HasData(detail1, detail2, detail3);
         }
     }
 }

@@ -1,0 +1,12 @@
+E:\.net-projects\CQRS-.net-core\Core\CQRS-.net-core.Domain\bin\Debug\net8.0\CQRS-.net-core.Domain.deps.json
+E:\.net-projects\CQRS-.net-core\Core\CQRS-.net-core.Domain\bin\Debug\net8.0\CQRS-.net-core.Domain.dll
+E:\.net-projects\CQRS-.net-core\Core\CQRS-.net-core.Domain\bin\Debug\net8.0\CQRS-.net-core.Domain.pdb
+E:\.net-projects\CQRS-.net-core\Core\CQRS-.net-core.Domain\obj\Debug\net8.0\CQRS-.net-core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net-projects\CQRS-.net-core\Core\CQRS-.net-core.Domain\obj\Debug\net8.0\CQRS-.net-core.Domain.AssemblyInfoInputs.cache
+E:\.net-projects\CQRS-.net-core\Core\CQRS-.net-core.Domain\obj\Debug\net8.0\CQRS-.net-core.Domain.AssemblyInfo.cs
+E:\.net-projects\CQRS-.net-core\Core\CQRS-.net-core.Domain\obj\Debug\net8.0\CQRS-.net-core.Domain.csproj.CoreCompileInputs.cache
+E:\.net-projects\CQRS-.net-core\Core\CQRS-.net-core.Domain\obj\Debug\net8.0\CQRS-.net-core.Domain.sourcelink.json
+E:\.net-projects\CQRS-.net-core\Core\CQRS-.net-core.Domain\obj\Debug\net8.0\CQRS-.net-core.Domain.dll
+E:\.net-projects\CQRS-.net-core\Core\CQRS-.net-core.Domain\obj\Debug\net8.0\refint\CQRS-.net-core.Domain.dll
+E:\.net-projects\CQRS-.net-core\Core\CQRS-.net-core.Domain\obj\Debug\net8.0\CQRS-.net-core.Domain.pdb
+E:\.net-projects\CQRS-.net-core\Core\CQRS-.net-core.Domain\obj\Debug\net8.0\ref\CQRS-.net-core.Domain.dll

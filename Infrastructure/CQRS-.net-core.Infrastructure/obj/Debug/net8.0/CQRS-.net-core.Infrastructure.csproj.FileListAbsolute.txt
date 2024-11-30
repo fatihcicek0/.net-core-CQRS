@@ -1,0 +1,12 @@
+E:\.net-projects\CQRS-.net-core\Infrastructure\CQRS-.net-core.Infrastructure\bin\Debug\net8.0\CQRS-.net-core.Infrastructure.deps.json
+E:\.net-projects\CQRS-.net-core\Infrastructure\CQRS-.net-core.Infrastructure\bin\Debug\net8.0\CQRS-.net-core.Infrastructure.dll
+E:\.net-projects\CQRS-.net-core\Infrastructure\CQRS-.net-core.Infrastructure\bin\Debug\net8.0\CQRS-.net-core.Infrastructure.pdb
+E:\.net-projects\CQRS-.net-core\Infrastructure\CQRS-.net-core.Infrastructure\obj\Debug\net8.0\CQRS-.net-core.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net-projects\CQRS-.net-core\Infrastructure\CQRS-.net-core.Infrastructure\obj\Debug\net8.0\CQRS-.net-core.Infrastructure.AssemblyInfoInputs.cache
+E:\.net-projects\CQRS-.net-core\Infrastructure\CQRS-.net-core.Infrastructure\obj\Debug\net8.0\CQRS-.net-core.Infrastructure.AssemblyInfo.cs
+E:\.net-projects\CQRS-.net-core\Infrastructure\CQRS-.net-core.Infrastructure\obj\Debug\net8.0\CQRS-.net-core.Infrastructure.csproj.CoreCompileInputs.cache
+E:\.net-projects\CQRS-.net-core\Infrastructure\CQRS-.net-core.Infrastructure\obj\Debug\net8.0\CQRS-.net-core.Infrastructure.sourcelink.json
+E:\.net-projects\CQRS-.net-core\Infrastructure\CQRS-.net-core.Infrastructure\obj\Debug\net8.0\CQRS-.net-core.Infrastructure.dll
+E:\.net-projects\CQRS-.net-core\Infrastructure\CQRS-.net-core.Infrastructure\obj\Debug\net8.0\refint\CQRS-.net-core.Infrastructure.dll
+E:\.net-projects\CQRS-.net-core\Infrastructure\CQRS-.net-core.Infrastructure\obj\Debug\net8.0\CQRS-.net-core.Infrastructure.pdb
+E:\.net-projects\CQRS-.net-core\Infrastructure\CQRS-.net-core.Infrastructure\obj\Debug\net8.0\ref\CQRS-.net-core.Infrastructure.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CQRS-.net-core.Persistence")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6bad75629fad4c9435836c820ce3bffd958a28af")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0a35bac7618b0a7718c812942d62a560dda38b9")]
 [assembly: System.Reflection.AssemblyProductAttribute("CQRS-.net-core.Persistence")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CQRS-.net-core.Persistence")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
