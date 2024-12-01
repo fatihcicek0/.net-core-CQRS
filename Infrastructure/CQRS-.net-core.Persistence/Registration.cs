@@ -1,6 +1,8 @@
 ﻿using CQRS_.net_core.Application.Interfaces.Repositories;
+using CQRS_.net_core.Application.Interfaces.UnitOfWorks;
 using CQRS_.net_core.Persistence.Context;
 using CQRS_.net_core.Persistence.Repositories;
+using CQRS_.net_core.Persistence.UnitOfWorks;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -24,6 +26,8 @@ namespace CQRS_.net_core.Persistence
 
             services.AddScoped(typeof(IReadRepository<>), typeof(ReadRepository<>));
             services.AddScoped(typeof(IWriteRepository<>), typeof(WriteRepository<>));
+
+            services.AddScoped<IUnitOfWork, UnitOfWork>();
 
         }
     }

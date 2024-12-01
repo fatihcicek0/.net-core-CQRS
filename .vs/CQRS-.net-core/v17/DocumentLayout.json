@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "E:\\.net-projects\\CQRS-.net-core\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4B1D8D2A-DC35-4D2B-8656-56D67B575DE6}|Infrastructure\\CQRS-.net-core.Persistence\\CQRS-.net-core.Persistence.csproj|e:\\.net-projects\\cqrs-.net-core\\infrastructure\\cqrs-.net-core.persistence\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B1D8D2A-DC35-4D2B-8656-56D67B575DE6}|Infrastructure\\CQRS-.net-core.Persistence\\CQRS-.net-core.Persistence.csproj|solutionrelative:infrastructure\\cqrs-.net-core.persistence\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B1D8D2A-DC35-4D2B-8656-56D67B575DE6}|Infrastructure\\CQRS-.net-core.Persistence\\CQRS-.net-core.Persistence.csproj|e:\\.net-projects\\cqrs-.net-core\\infrastructure\\cqrs-.net-core.persistence\\repositories\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B1D8D2A-DC35-4D2B-8656-56D67B575DE6}|Infrastructure\\CQRS-.net-core.Persistence\\CQRS-.net-core.Persistence.csproj|solutionrelative:infrastructure\\cqrs-.net-core.persistence\\repositories\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B1D8D2A-DC35-4D2B-8656-56D67B575DE6}|Infrastructure\\CQRS-.net-core.Persistence\\CQRS-.net-core.Persistence.csproj|e:\\.net-projects\\cqrs-.net-core\\infrastructure\\cqrs-.net-core.persistence\\repositories\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B1D8D2A-DC35-4D2B-8656-56D67B575DE6}|Infrastructure\\CQRS-.net-core.Persistence\\CQRS-.net-core.Persistence.csproj|solutionrelative:infrastructure\\cqrs-.net-core.persistence\\repositories\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B1D8D2A-DC35-4D2B-8656-56D67B575DE6}|Infrastructure\\CQRS-.net-core.Persistence\\CQRS-.net-core.Persistence.csproj|e:\\.net-projects\\cqrs-.net-core\\infrastructure\\cqrs-.net-core.persistence\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B1D8D2A-DC35-4D2B-8656-56D67B575DE6}|Infrastructure\\CQRS-.net-core.Persistence\\CQRS-.net-core.Persistence.csproj|solutionrelative:infrastructure\\cqrs-.net-core.persistence\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B0B0481-6006-4D6F-B7BD-EDDD46736348}|Core\\CQRS-.net-core.Application\\CQRS-.net-core.Application.csproj|e:\\.net-projects\\cqrs-.net-core\\core\\cqrs-.net-core.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B0B0481-6006-4D6F-B7BD-EDDD46736348}|Core\\CQRS-.net-core.Application\\CQRS-.net-core.Application.csproj|solutionrelative:core\\cqrs-.net-core.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B0B0481-6006-4D6F-B7BD-EDDD46736348}|Core\\CQRS-.net-core.Application\\CQRS-.net-core.Application.csproj|e:\\.net-projects\\cqrs-.net-core\\core\\cqrs-.net-core.application\\interfaces\\repositories\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0B0481-6006-4D6F-B7BD-EDDD46736348}|Core\\CQRS-.net-core.Application\\CQRS-.net-core.Application.csproj|solutionrelative:core\\cqrs-.net-core.application\\interfaces\\repositories\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +14,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ReadRepository.cs",
-              "DocumentMoniker": "E:\\.net-projects\\CQRS-.net-core\\Infrastructure\\CQRS-.net-core.Persistence\\Repositories\\ReadRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\CQRS-.net-core.Persistence\\Repositories\\ReadRepository.cs",
-              "ToolTip": "E:\\.net-projects\\CQRS-.net-core\\Infrastructure\\CQRS-.net-core.Persistence\\Repositories\\ReadRepository.cs",
-              "RelativeToolTip": "Infrastructure\\CQRS-.net-core.Persistence\\Repositories\\ReadRepository.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBMAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T09:11:25.711Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Registration.cs",
-              "DocumentMoniker": "E:\\.net-projects\\CQRS-.net-core\\Infrastructure\\CQRS-.net-core.Persistence\\Registration.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\CQRS-.net-core.Persistence\\Registration.cs",
-              "ToolTip": "E:\\.net-projects\\CQRS-.net-core\\Infrastructure\\CQRS-.net-core.Persistence\\Registration.cs",
-              "RelativeToolTip": "Infrastructure\\CQRS-.net-core.Persistence\\Registration.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Title": "IReadRepository.cs",
+              "DocumentMoniker": "E:\\.net-projects\\CQRS-.net-core\\Core\\CQRS-.net-core.Application\\Interfaces\\Repositories\\IReadRepository.cs",
+              "RelativeDocumentMoniker": "Core\\CQRS-.net-core.Application\\Interfaces\\Repositories\\IReadRepository.cs",
+              "ToolTip": "E:\\.net-projects\\CQRS-.net-core\\Core\\CQRS-.net-core.Application\\Interfaces\\Repositories\\IReadRepository.cs",
+              "RelativeToolTip": "Core\\CQRS-.net-core.Application\\Interfaces\\Repositories\\IReadRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T19:03:06.165Z",
+              "WhenOpened": "2024-12-01T13:59:07.382Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WriteRepository.cs",
-              "DocumentMoniker": "E:\\.net-projects\\CQRS-.net-core\\Infrastructure\\CQRS-.net-core.Persistence\\Repositories\\WriteRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\CQRS-.net-core.Persistence\\Repositories\\WriteRepository.cs",
-              "ToolTip": "E:\\.net-projects\\CQRS-.net-core\\Infrastructure\\CQRS-.net-core.Persistence\\Repositories\\WriteRepository.cs",
-              "RelativeToolTip": "Infrastructure\\CQRS-.net-core.Persistence\\Repositories\\WriteRepository.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAxwCQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T18:34:07.394Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "E:\\.net-projects\\CQRS-.net-core\\Core\\CQRS-.net-core.Application\\Class1.cs",
-              "RelativeDocumentMoniker": "Core\\CQRS-.net-core.Application\\Class1.cs",
-              "ToolTip": "E:\\.net-projects\\CQRS-.net-core\\Core\\CQRS-.net-core.Application\\Class1.cs",
-              "RelativeToolTip": "Core\\CQRS-.net-core.Application\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T07:46:31.813Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "E:\\.net-projects\\CQRS-.net-core\\Infrastructure\\CQRS-.net-core.Persistence\\Context\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\CQRS-.net-core.Persistence\\Context\\AppDbContext.cs",
-              "ToolTip": "E:\\.net-projects\\CQRS-.net-core\\Infrastructure\\CQRS-.net-core.Persistence\\Context\\AppDbContext.cs",
-              "RelativeToolTip": "Infrastructure\\CQRS-.net-core.Persistence\\Context\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T15:25:30.243Z"
             }
           ]
         }
