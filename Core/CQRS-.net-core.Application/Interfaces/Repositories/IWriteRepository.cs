@@ -1,4 +1,5 @@
 ﻿using CQRS_.net_core.Domain.Common;
+using CQRS_.net_core.Domain.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -15,6 +16,6 @@ namespace CQRS_.net_core.Application.Interfaces.Repositories
 
         Task<T>UpdateAsync(T entity);
         Task HardDeleteAsync(T entity);
-
+        Task HardDeleteRangeAsync(IList<T> entities);
     }
 }

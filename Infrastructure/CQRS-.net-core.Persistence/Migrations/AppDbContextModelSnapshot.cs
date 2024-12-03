@@ -49,22 +49,22 @@ namespace CQRS_.net_core.Persistence.Migrations
                         new
                         {
                             Id = 1,
-                            CreatedDate = new DateTime(2024, 11, 27, 18, 29, 23, 147, DateTimeKind.Local).AddTicks(8177),
-                            Name = "Electronics",
+                            CreatedDate = new DateTime(2024, 12, 3, 13, 14, 41, 805, DateTimeKind.Local).AddTicks(1549),
+                            Name = "Movies",
                             isDeleted = false
                         },
                         new
                         {
                             Id = 2,
-                            CreatedDate = new DateTime(2024, 11, 27, 18, 29, 23, 148, DateTimeKind.Local).AddTicks(2086),
-                            Name = "Electronics, Movies & Toys",
+                            CreatedDate = new DateTime(2024, 12, 3, 13, 14, 41, 805, DateTimeKind.Local).AddTicks(1983),
+                            Name = "Electronics",
                             isDeleted = false
                         },
                         new
                         {
                             Id = 3,
-                            CreatedDate = new DateTime(2024, 11, 27, 18, 29, 23, 148, DateTimeKind.Local).AddTicks(2207),
-                            Name = "Garden, Home & Outdoors",
+                            CreatedDate = new DateTime(2024, 12, 3, 13, 14, 41, 805, DateTimeKind.Local).AddTicks(4446),
+                            Name = "Movies, Shoes & Clothing",
                             isDeleted = true
                         });
                 });
@@ -102,7 +102,7 @@ namespace CQRS_.net_core.Persistence.Migrations
                         new
                         {
                             Id = 1,
-                            CreatedDate = new DateTime(2024, 11, 27, 18, 29, 23, 149, DateTimeKind.Local).AddTicks(4436),
+                            CreatedDate = new DateTime(2024, 12, 3, 13, 14, 41, 806, DateTimeKind.Local).AddTicks(7543),
                             Name = "Elektronik",
                             ParentId = 0,
                             Priorty = 1,
@@ -111,7 +111,7 @@ namespace CQRS_.net_core.Persistence.Migrations
                         new
                         {
                             Id = 2,
-                            CreatedDate = new DateTime(2024, 11, 27, 18, 29, 23, 149, DateTimeKind.Local).AddTicks(4440),
+                            CreatedDate = new DateTime(2024, 12, 3, 13, 14, 41, 806, DateTimeKind.Local).AddTicks(7547),
                             Name = "Moda",
                             ParentId = 0,
                             Priorty = 1,
@@ -120,7 +120,7 @@ namespace CQRS_.net_core.Persistence.Migrations
                         new
                         {
                             Id = 3,
-                            CreatedDate = new DateTime(2024, 11, 27, 18, 29, 23, 149, DateTimeKind.Local).AddTicks(4442),
+                            CreatedDate = new DateTime(2024, 12, 3, 13, 14, 41, 806, DateTimeKind.Local).AddTicks(7549),
                             Name = "Bilgisayar",
                             ParentId = 1,
                             Priorty = 1,
@@ -129,7 +129,7 @@ namespace CQRS_.net_core.Persistence.Migrations
                         new
                         {
                             Id = 4,
-                            CreatedDate = new DateTime(2024, 11, 27, 18, 29, 23, 149, DateTimeKind.Local).AddTicks(4444),
+                            CreatedDate = new DateTime(2024, 12, 3, 13, 14, 41, 806, DateTimeKind.Local).AddTicks(7550),
                             Name = "Kadın",
                             ParentId = 2,
                             Priorty = 1,
@@ -173,27 +173,27 @@ namespace CQRS_.net_core.Persistence.Migrations
                         {
                             Id = 1,
                             CategoryId = 1,
-                            CreatedDate = new DateTime(2024, 11, 27, 18, 29, 23, 167, DateTimeKind.Local).AddTicks(4900),
-                            Description = "Velit reprehenderit dolorem layıkıyla dicta.",
-                            Title = "Kutusu.",
+                            CreatedDate = new DateTime(2024, 12, 3, 13, 14, 41, 818, DateTimeKind.Local).AddTicks(898),
+                            Description = "Bundan ea camisi dolore voluptatem.",
+                            Title = "Eve.",
                             isDeleted = false
                         },
                         new
                         {
                             Id = 2,
                             CategoryId = 2,
-                            CreatedDate = new DateTime(2024, 11, 27, 18, 29, 23, 167, DateTimeKind.Local).AddTicks(4966),
-                            Description = "Et aut molestiae ona veritatis.",
-                            Title = "Kalemi.",
+                            CreatedDate = new DateTime(2024, 12, 3, 13, 14, 41, 818, DateTimeKind.Local).AddTicks(954),
+                            Description = "Ona cesurca nemo alias uzattı.",
+                            Title = "Dolayı.",
                             isDeleted = false
                         },
                         new
                         {
                             Id = 3,
                             CategoryId = 3,
-                            CreatedDate = new DateTime(2024, 11, 27, 18, 29, 23, 167, DateTimeKind.Local).AddTicks(5076),
-                            Description = "Suscipit aut in non düşünüyor.",
-                            Title = "Quia.",
+                            CreatedDate = new DateTime(2024, 12, 3, 13, 14, 41, 818, DateTimeKind.Local).AddTicks(984),
+                            Description = "Totam commodi nemo aut biber.",
+                            Title = "Quis.",
                             isDeleted = false
                         });
                 });
@@ -242,39 +242,39 @@ namespace CQRS_.net_core.Persistence.Migrations
                         {
                             Id = 1,
                             BrandId = 1,
-                            CreatedDate = new DateTime(2024, 11, 27, 18, 29, 23, 172, DateTimeKind.Local).AddTicks(8331),
-                            Description = "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
-                            Discount = 6.451718492904680m,
-                            Price = 981.60m,
-                            Title = "Unbranded Plastic Shirt",
+                            CreatedDate = new DateTime(2024, 12, 3, 13, 14, 41, 828, DateTimeKind.Local).AddTicks(2891),
+                            Description = "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+                            Discount = 3.63245322888910m,
+                            Price = 922.79m,
+                            Title = "Ergonomic Cotton Shoes",
                             isDeleted = false
                         },
                         new
                         {
                             Id = 2,
                             BrandId = 2,
-                            CreatedDate = new DateTime(2024, 11, 27, 18, 29, 23, 172, DateTimeKind.Local).AddTicks(8446),
-                            Description = "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
-                            Discount = 5.149885604525710m,
-                            Price = 808.10m,
-                            Title = "Unbranded Granite Shoes",
+                            CreatedDate = new DateTime(2024, 12, 3, 13, 14, 41, 828, DateTimeKind.Local).AddTicks(2993),
+                            Description = "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+                            Discount = 1.935024211414820m,
+                            Price = 736.90m,
+                            Title = "Ergonomic Frozen Bacon",
                             isDeleted = false
                         });
                 });
 
-            modelBuilder.Entity("CategoryProduct", b =>
+            modelBuilder.Entity("CQRS_.net_core.Domain.Entities.ProductCategory", b =>
                 {
-                    b.Property<int>("CategoriesId")
+                    b.Property<int>("ProductId")
                         .HasColumnType("int");
 
-                    b.Property<int>("ProductsId")
+                    b.Property<int>("CategoryId")
                         .HasColumnType("int");
 
-                    b.HasKey("CategoriesId", "ProductsId");
+                    b.HasKey("ProductId", "CategoryId");
 
-                    b.HasIndex("ProductsId");
+                    b.HasIndex("CategoryId");
 
-                    b.ToTable("CategoryProduct");
+                    b.ToTable("ProductCategories");
                 });
 
             modelBuilder.Entity("CQRS_.net_core.Domain.Entities.Detail", b =>
@@ -299,24 +299,35 @@ namespace CQRS_.net_core.Persistence.Migrations
                     b.Navigation("Brand");
                 });
 
-            modelBuilder.Entity("CategoryProduct", b =>
+            modelBuilder.Entity("CQRS_.net_core.Domain.Entities.ProductCategory", b =>
                 {
-                    b.HasOne("CQRS_.net_core.Domain.Entities.Category", null)
-                        .WithMany()
-                        .HasForeignKey("CategoriesId")
+                    b.HasOne("CQRS_.net_core.Domain.Entities.Category", "Category")
+                        .WithMany("ProductCategories")
+                        .HasForeignKey("CategoryId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("CQRS_.net_core.Domain.Entities.Product", null)
-                        .WithMany()
-                        .HasForeignKey("ProductsId")
+                    b.HasOne("CQRS_.net_core.Domain.Entities.Product", "Product")
+                        .WithMany("ProductCategories")
+                        .HasForeignKey("ProductId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
+
+                    b.Navigation("Category");
+
+                    b.Navigation("Product");
                 });
 
             modelBuilder.Entity("CQRS_.net_core.Domain.Entities.Category", b =>
                 {
                     b.Navigation("Details");
+
+                    b.Navigation("ProductCategories");
+                });
+
+            modelBuilder.Entity("CQRS_.net_core.Domain.Entities.Product", b =>
+                {
+                    b.Navigation("ProductCategories");
                 });
 #pragma warning restore 612, 618
         }

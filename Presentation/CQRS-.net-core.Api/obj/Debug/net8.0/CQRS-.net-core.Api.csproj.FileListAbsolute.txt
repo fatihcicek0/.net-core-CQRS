@@ -173,3 +173,10 @@ E:\.net-projects\CQRS-.net-core\Presentation\CQRS-.net-core.Api\bin\Debug\net8.0
 E:\.net-projects\CQRS-.net-core\Presentation\CQRS-.net-core.Api\bin\Debug\net8.0\CQRS-.net-core.Persistence.pdb
 E:\.net-projects\CQRS-.net-core\Presentation\CQRS-.net-core.Api\bin\Debug\net8.0\CQRS-.net-core.Domain.pdb
 E:\.net-projects\CQRS-.net-core\Presentation\CQRS-.net-core.Api\obj\Debug\net8.0\CQRS-.net-core.Api.sourcelink.json
+E:\.net-projects\CQRS-.net-core\Presentation\CQRS-.net-core.Api\bin\Debug\net8.0\MediatR.dll
+E:\.net-projects\CQRS-.net-core\Presentation\CQRS-.net-core.Api\bin\Debug\net8.0\MediatR.Contracts.dll
+E:\.net-projects\CQRS-.net-core\Presentation\CQRS-.net-core.Api\bin\Debug\net8.0\CQRS-.net-core.Application.dll
+E:\.net-projects\CQRS-.net-core\Presentation\CQRS-.net-core.Api\bin\Debug\net8.0\CQRS-.net-core.Application.pdb
+E:\.net-projects\CQRS-.net-core\Presentation\CQRS-.net-core.Api\bin\Debug\net8.0\AutoMapper.dll
+E:\.net-projects\CQRS-.net-core\Presentation\CQRS-.net-core.Api\bin\Debug\net8.0\CQRS-.net-core.Mapper.dll
+E:\.net-projects\CQRS-.net-core\Presentation\CQRS-.net-core.Api\bin\Debug\net8.0\CQRS-.net-core.Mapper.pdb

@@ -1,5 +1,6 @@
 ﻿using CQRS_.net_core.Application.Interfaces.Repositories;
 using CQRS_.net_core.Domain.Common;
+using CQRS_.net_core.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -35,5 +36,11 @@ namespace CQRS_.net_core.Persistence.Repositories
         {
             await Task.Run(() => Table.Remove(entity));
         }
+        public async Task HardDeleteRangeAsync(IList<T> entity)
+        {
+            await Task.Run(() => Table.RemoveRange(entity));
+        }
+
+        
     }
 }

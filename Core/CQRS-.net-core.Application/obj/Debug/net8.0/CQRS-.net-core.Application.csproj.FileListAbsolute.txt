@@ -1,0 +1,16 @@
+E:\.net-projects\CQRS-.net-core\Core\CQRS-.net-core.Application\bin\Debug\net8.0\CQRS-.net-core.Application.deps.json
+E:\.net-projects\CQRS-.net-core\Core\CQRS-.net-core.Application\bin\Debug\net8.0\CQRS-.net-core.Application.dll
+E:\.net-projects\CQRS-.net-core\Core\CQRS-.net-core.Application\bin\Debug\net8.0\CQRS-.net-core.Application.pdb
+E:\.net-projects\CQRS-.net-core\Core\CQRS-.net-core.Application\bin\Debug\net8.0\CQRS-.net-core.Domain.dll
+E:\.net-projects\CQRS-.net-core\Core\CQRS-.net-core.Application\bin\Debug\net8.0\CQRS-.net-core.Domain.pdb
+E:\.net-projects\CQRS-.net-core\Core\CQRS-.net-core.Application\obj\Debug\net8.0\CQRS-.net-core.Application.csproj.AssemblyReference.cache
+E:\.net-projects\CQRS-.net-core\Core\CQRS-.net-core.Application\obj\Debug\net8.0\CQRS-.net-core.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net-projects\CQRS-.net-core\Core\CQRS-.net-core.Application\obj\Debug\net8.0\CQRS-.net-core.Application.AssemblyInfoInputs.cache
+E:\.net-projects\CQRS-.net-core\Core\CQRS-.net-core.Application\obj\Debug\net8.0\CQRS-.net-core.Application.AssemblyInfo.cs
+E:\.net-projects\CQRS-.net-core\Core\CQRS-.net-core.Application\obj\Debug\net8.0\CQRS-.net-core.Application.csproj.CoreCompileInputs.cache
+E:\.net-projects\CQRS-.net-core\Core\CQRS-.net-core.Application\obj\Debug\net8.0\CQRS-.net-core.Application.sourcelink.json
+E:\.net-projects\CQRS-.net-core\Core\CQRS-.net-core.Application\obj\Debug\net8.0\CQRS-.ne.4C70F6DE.Up2Date
+E:\.net-projects\CQRS-.net-core\Core\CQRS-.net-core.Application\obj\Debug\net8.0\CQRS-.net-core.Application.dll
+E:\.net-projects\CQRS-.net-core\Core\CQRS-.net-core.Application\obj\Debug\net8.0\refint\CQRS-.net-core.Application.dll
+E:\.net-projects\CQRS-.net-core\Core\CQRS-.net-core.Application\obj\Debug\net8.0\CQRS-.net-core.Application.pdb
+E:\.net-projects\CQRS-.net-core\Core\CQRS-.net-core.Application\obj\Debug\net8.0\ref\CQRS-.net-core.Application.dll

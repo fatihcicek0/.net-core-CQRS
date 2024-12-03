@@ -16,3 +16,5 @@ E:\.net-projects\CQRS-.net-core\Infrastructure\CQRS-.net-core.Persistence\obj\De
 E:\.net-projects\CQRS-.net-core\Infrastructure\CQRS-.net-core.Persistence\obj\Debug\net8.0\CQRS-.net-core.Persistence.pdb
 E:\.net-projects\CQRS-.net-core\Infrastructure\CQRS-.net-core.Persistence\obj\Debug\net8.0\CQRS-.net-core.Persistence.genruntimeconfig.cache
 E:\.net-projects\CQRS-.net-core\Infrastructure\CQRS-.net-core.Persistence\obj\Debug\net8.0\ref\CQRS-.net-core.Persistence.dll
+E:\.net-projects\CQRS-.net-core\Infrastructure\CQRS-.net-core.Persistence\bin\Debug\net8.0\CQRS-.net-core.Application.dll
+E:\.net-projects\CQRS-.net-core\Infrastructure\CQRS-.net-core.Persistence\bin\Debug\net8.0\CQRS-.net-core.Application.pdb

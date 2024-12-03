@@ -21,6 +21,7 @@ namespace CQRS_.net_core.Persistence.Context
         public DbSet<Product> Products { get; set; }
             
         public DbSet<Detail> Details { get; set; }
+        public DbSet<ProductCategory> ProductCategories { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

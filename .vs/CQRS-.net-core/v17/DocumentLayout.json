@@ -3,8 +3,71 @@
   "WorkspaceRootPath": "E:\\.net-projects\\CQRS-.net-core\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4B0B0481-6006-4D6F-B7BD-EDDD46736348}|Core\\CQRS-.net-core.Application\\CQRS-.net-core.Application.csproj|e:\\.net-projects\\cqrs-.net-core\\core\\cqrs-.net-core.application\\interfaces\\repositories\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B0B0481-6006-4D6F-B7BD-EDDD46736348}|Core\\CQRS-.net-core.Application\\CQRS-.net-core.Application.csproj|solutionrelative:core\\cqrs-.net-core.application\\interfaces\\repositories\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0CFA06BF-EA10-47A5-9055-992E56BFAB11}|Presentation\\CQRS-.net-core.Api\\CQRS-.net-core.Api.csproj|e:\\.net-projects\\cqrs-.net-core\\presentation\\cqrs-.net-core.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CFA06BF-EA10-47A5-9055-992E56BFAB11}|Presentation\\CQRS-.net-core.Api\\CQRS-.net-core.Api.csproj|solutionrelative:presentation\\cqrs-.net-core.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0B0481-6006-4D6F-B7BD-EDDD46736348}|Core\\CQRS-.net-core.Application\\CQRS-.net-core.Application.csproj|e:\\.net-projects\\cqrs-.net-core\\core\\cqrs-.net-core.application\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0B0481-6006-4D6F-B7BD-EDDD46736348}|Core\\CQRS-.net-core.Application\\CQRS-.net-core.Application.csproj|solutionrelative:core\\cqrs-.net-core.application\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0B0481-6006-4D6F-B7BD-EDDD46736348}|Core\\CQRS-.net-core.Application\\CQRS-.net-core.Application.csproj|e:\\.net-projects\\cqrs-.net-core\\core\\cqrs-.net-core.application\\features\\products\\commands\\createproduct\\createproductcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0B0481-6006-4D6F-B7BD-EDDD46736348}|Core\\CQRS-.net-core.Application\\CQRS-.net-core.Application.csproj|solutionrelative:core\\cqrs-.net-core.application\\features\\products\\commands\\createproduct\\createproductcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0B0481-6006-4D6F-B7BD-EDDD46736348}|Core\\CQRS-.net-core.Application\\CQRS-.net-core.Application.csproj|e:\\.net-projects\\cqrs-.net-core\\core\\cqrs-.net-core.application\\beheviors\\fluentvalidationbehevior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0B0481-6006-4D6F-B7BD-EDDD46736348}|Core\\CQRS-.net-core.Application\\CQRS-.net-core.Application.csproj|solutionrelative:core\\cqrs-.net-core.application\\beheviors\\fluentvalidationbehevior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0B0481-6006-4D6F-B7BD-EDDD46736348}|Core\\CQRS-.net-core.Application\\CQRS-.net-core.Application.csproj|e:\\.net-projects\\cqrs-.net-core\\core\\cqrs-.net-core.application\\features\\products\\commands\\createproduct\\createproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0B0481-6006-4D6F-B7BD-EDDD46736348}|Core\\CQRS-.net-core.Application\\CQRS-.net-core.Application.csproj|solutionrelative:core\\cqrs-.net-core.application\\features\\products\\commands\\createproduct\\createproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0B0481-6006-4D6F-B7BD-EDDD46736348}|Core\\CQRS-.net-core.Application\\CQRS-.net-core.Application.csproj|e:\\.net-projects\\cqrs-.net-core\\core\\cqrs-.net-core.application\\features\\products\\commands\\createproduct\\createproductcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0B0481-6006-4D6F-B7BD-EDDD46736348}|Core\\CQRS-.net-core.Application\\CQRS-.net-core.Application.csproj|solutionrelative:core\\cqrs-.net-core.application\\features\\products\\commands\\createproduct\\createproductcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0B0481-6006-4D6F-B7BD-EDDD46736348}|Core\\CQRS-.net-core.Application\\CQRS-.net-core.Application.csproj|e:\\.net-projects\\cqrs-.net-core\\core\\cqrs-.net-core.application\\exceptions\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0B0481-6006-4D6F-B7BD-EDDD46736348}|Core\\CQRS-.net-core.Application\\CQRS-.net-core.Application.csproj|solutionrelative:core\\cqrs-.net-core.application\\exceptions\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0B0481-6006-4D6F-B7BD-EDDD46736348}|Core\\CQRS-.net-core.Application\\CQRS-.net-core.Application.csproj|e:\\.net-projects\\cqrs-.net-core\\core\\cqrs-.net-core.application\\exceptions\\configureexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0B0481-6006-4D6F-B7BD-EDDD46736348}|Core\\CQRS-.net-core.Application\\CQRS-.net-core.Application.csproj|solutionrelative:core\\cqrs-.net-core.application\\exceptions\\configureexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0B0481-6006-4D6F-B7BD-EDDD46736348}|Core\\CQRS-.net-core.Application\\CQRS-.net-core.Application.csproj|e:\\.net-projects\\cqrs-.net-core\\core\\cqrs-.net-core.application\\exceptions\\exceptionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0B0481-6006-4D6F-B7BD-EDDD46736348}|Core\\CQRS-.net-core.Application\\CQRS-.net-core.Application.csproj|solutionrelative:core\\cqrs-.net-core.application\\exceptions\\exceptionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CQRS_.net_core/True/SqlTable/dbo.Products.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0B0481-6006-4D6F-B7BD-EDDD46736348}|Core\\CQRS-.net-core.Application\\CQRS-.net-core.Application.csproj|e:\\.net-projects\\cqrs-.net-core\\core\\cqrs-.net-core.application\\features\\products\\commands\\deleteproduct\\deleteproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0B0481-6006-4D6F-B7BD-EDDD46736348}|Core\\CQRS-.net-core.Application\\CQRS-.net-core.Application.csproj|solutionrelative:core\\cqrs-.net-core.application\\features\\products\\commands\\deleteproduct\\deleteproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0B0481-6006-4D6F-B7BD-EDDD46736348}|Core\\CQRS-.net-core.Application\\CQRS-.net-core.Application.csproj|e:\\.net-projects\\cqrs-.net-core\\core\\cqrs-.net-core.application\\features\\products\\commands\\updateproduct\\updateproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0B0481-6006-4D6F-B7BD-EDDD46736348}|Core\\CQRS-.net-core.Application\\CQRS-.net-core.Application.csproj|solutionrelative:core\\cqrs-.net-core.application\\features\\products\\commands\\updateproduct\\updateproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0B0481-6006-4D6F-B7BD-EDDD46736348}|Core\\CQRS-.net-core.Application\\CQRS-.net-core.Application.csproj|e:\\.net-projects\\cqrs-.net-core\\core\\cqrs-.net-core.application\\features\\products\\commands\\updateproduct\\updateproductcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0B0481-6006-4D6F-B7BD-EDDD46736348}|Core\\CQRS-.net-core.Application\\CQRS-.net-core.Application.csproj|solutionrelative:core\\cqrs-.net-core.application\\features\\products\\commands\\updateproduct\\updateproductcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CFA06BF-EA10-47A5-9055-992E56BFAB11}|Presentation\\CQRS-.net-core.Api\\CQRS-.net-core.Api.csproj|e:\\.net-projects\\cqrs-.net-core\\presentation\\cqrs-.net-core.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CFA06BF-EA10-47A5-9055-992E56BFAB11}|Presentation\\CQRS-.net-core.Api\\CQRS-.net-core.Api.csproj|solutionrelative:presentation\\cqrs-.net-core.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0B0481-6006-4D6F-B7BD-EDDD46736348}|Core\\CQRS-.net-core.Application\\CQRS-.net-core.Application.csproj|e:\\.net-projects\\cqrs-.net-core\\core\\cqrs-.net-core.application\\interfaces\\repositories\\iwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0B0481-6006-4D6F-B7BD-EDDD46736348}|Core\\CQRS-.net-core.Application\\CQRS-.net-core.Application.csproj|solutionrelative:core\\cqrs-.net-core.application\\interfaces\\repositories\\iwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1D8D2A-DC35-4D2B-8656-56D67B575DE6}|Infrastructure\\CQRS-.net-core.Persistence\\CQRS-.net-core.Persistence.csproj|e:\\.net-projects\\cqrs-.net-core\\infrastructure\\cqrs-.net-core.persistence\\repositories\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B1D8D2A-DC35-4D2B-8656-56D67B575DE6}|Infrastructure\\CQRS-.net-core.Persistence\\CQRS-.net-core.Persistence.csproj|solutionrelative:infrastructure\\cqrs-.net-core.persistence\\repositories\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B0B0481-6006-4D6F-B7BD-EDDD46736348}|Core\\CQRS-.net-core.Application\\CQRS-.net-core.Application.csproj|e:\\.net-projects\\cqrs-.net-core\\core\\cqrs-.net-core.application\\features\\products\\commands\\deleteproduct\\deleteproductcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B0B0481-6006-4D6F-B7BD-EDDD46736348}|Core\\CQRS-.net-core.Application\\CQRS-.net-core.Application.csproj|solutionrelative:core\\cqrs-.net-core.application\\features\\products\\commands\\deleteproduct\\deleteproductcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +77,223 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IReadRepository.cs",
-              "DocumentMoniker": "E:\\.net-projects\\CQRS-.net-core\\Core\\CQRS-.net-core.Application\\Interfaces\\Repositories\\IReadRepository.cs",
-              "RelativeDocumentMoniker": "Core\\CQRS-.net-core.Application\\Interfaces\\Repositories\\IReadRepository.cs",
-              "ToolTip": "E:\\.net-projects\\CQRS-.net-core\\Core\\CQRS-.net-core.Application\\Interfaces\\Repositories\\IReadRepository.cs",
-              "RelativeToolTip": "Core\\CQRS-.net-core.Application\\Interfaces\\Repositories\\IReadRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "CreateProductCommandValidator.cs",
+              "DocumentMoniker": "E:\\.net-projects\\CQRS-.net-core\\Core\\CQRS-.net-core.Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductCommandValidator.cs",
+              "RelativeDocumentMoniker": "Core\\CQRS-.net-core.Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductCommandValidator.cs",
+              "ToolTip": "E:\\.net-projects\\CQRS-.net-core\\Core\\CQRS-.net-core.Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductCommandValidator.cs",
+              "RelativeToolTip": "Core\\CQRS-.net-core.Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T13:59:07.382Z",
+              "WhenOpened": "2024-12-03T19:18:04.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FluentValidationBehevior.cs",
+              "DocumentMoniker": "E:\\.net-projects\\CQRS-.net-core\\Core\\CQRS-.net-core.Application\\Beheviors\\FluentValidationBehevior.cs",
+              "RelativeDocumentMoniker": "Core\\CQRS-.net-core.Application\\Beheviors\\FluentValidationBehevior.cs",
+              "ToolTip": "E:\\.net-projects\\CQRS-.net-core\\Core\\CQRS-.net-core.Application\\Beheviors\\FluentValidationBehevior.cs",
+              "RelativeToolTip": "Core\\CQRS-.net-core.Application\\Beheviors\\FluentValidationBehevior.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwB0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T15:15:29.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "E:\\.net-projects\\CQRS-.net-core\\Core\\CQRS-.net-core.Application\\Registration.cs",
+              "RelativeDocumentMoniker": "Core\\CQRS-.net-core.Application\\Registration.cs",
+              "ToolTip": "E:\\.net-projects\\CQRS-.net-core\\Core\\CQRS-.net-core.Application\\Registration.cs",
+              "RelativeToolTip": "Core\\CQRS-.net-core.Application\\Registration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T14:51:12.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateProductCommandRequest.cs",
+              "DocumentMoniker": "E:\\.net-projects\\CQRS-.net-core\\Core\\CQRS-.net-core.Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\CQRS-.net-core.Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductCommandRequest.cs",
+              "ToolTip": "E:\\.net-projects\\CQRS-.net-core\\Core\\CQRS-.net-core.Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductCommandRequest.cs",
+              "RelativeToolTip": "Core\\CQRS-.net-core.Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductCommandRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T10:28:49.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateProductCommandHandler.cs",
+              "DocumentMoniker": "E:\\.net-projects\\CQRS-.net-core\\Core\\CQRS-.net-core.Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\CQRS-.net-core.Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductCommandHandler.cs",
+              "ToolTip": "E:\\.net-projects\\CQRS-.net-core\\Core\\CQRS-.net-core.Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductCommandHandler.cs",
+              "RelativeToolTip": "Core\\CQRS-.net-core.Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductCommandHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T10:19:19.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\.net-projects\\CQRS-.net-core\\Presentation\\CQRS-.net-core.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\CQRS-.net-core.Api\\Program.cs",
+              "ToolTip": "E:\\.net-projects\\CQRS-.net-core\\Presentation\\CQRS-.net-core.Api\\Program.cs",
+              "RelativeToolTip": "Presentation\\CQRS-.net-core.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T14:49:11.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "E:\\.net-projects\\CQRS-.net-core\\Core\\CQRS-.net-core.Application\\Exceptions\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Core\\CQRS-.net-core.Application\\Exceptions\\ExceptionMiddleware.cs",
+              "ToolTip": "E:\\.net-projects\\CQRS-.net-core\\Core\\CQRS-.net-core.Application\\Exceptions\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "Core\\CQRS-.net-core.Application\\Exceptions\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBwAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T13:24:27.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConfigureExceptionMiddleware.cs",
+              "DocumentMoniker": "E:\\.net-projects\\CQRS-.net-core\\Core\\CQRS-.net-core.Application\\Exceptions\\ConfigureExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Core\\CQRS-.net-core.Application\\Exceptions\\ConfigureExceptionMiddleware.cs",
+              "ToolTip": "E:\\.net-projects\\CQRS-.net-core\\Core\\CQRS-.net-core.Application\\Exceptions\\ConfigureExceptionMiddleware.cs",
+              "RelativeToolTip": "Core\\CQRS-.net-core.Application\\Exceptions\\ConfigureExceptionMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T14:03:04.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "dbo.Products.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CQRS_.net_core/True/SqlTable/dbo.Products.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CQRS_.net_core/True/SqlTable/dbo.Products.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-03T13:05:46.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExceptionModel.cs",
+              "DocumentMoniker": "E:\\.net-projects\\CQRS-.net-core\\Core\\CQRS-.net-core.Application\\Exceptions\\ExceptionModel.cs",
+              "RelativeDocumentMoniker": "Core\\CQRS-.net-core.Application\\Exceptions\\ExceptionModel.cs",
+              "ToolTip": "E:\\.net-projects\\CQRS-.net-core\\Core\\CQRS-.net-core.Application\\Exceptions\\ExceptionModel.cs",
+              "RelativeToolTip": "Core\\CQRS-.net-core.Application\\Exceptions\\ExceptionModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T13:53:23.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WriteRepository.cs",
+              "DocumentMoniker": "E:\\.net-projects\\CQRS-.net-core\\Infrastructure\\CQRS-.net-core.Persistence\\Repositories\\WriteRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\CQRS-.net-core.Persistence\\Repositories\\WriteRepository.cs",
+              "ToolTip": "E:\\.net-projects\\CQRS-.net-core\\Infrastructure\\CQRS-.net-core.Persistence\\Repositories\\WriteRepository.cs",
+              "RelativeToolTip": "Infrastructure\\CQRS-.net-core.Persistence\\Repositories\\WriteRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:18:03.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateProductCommandHandler.cs",
+              "DocumentMoniker": "E:\\.net-projects\\CQRS-.net-core\\Core\\CQRS-.net-core.Application\\Features\\Products\\Commands\\UpdateProduct\\UpdateProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\CQRS-.net-core.Application\\Features\\Products\\Commands\\UpdateProduct\\UpdateProductCommandHandler.cs",
+              "ToolTip": "E:\\.net-projects\\CQRS-.net-core\\Core\\CQRS-.net-core.Application\\Features\\Products\\Commands\\UpdateProduct\\UpdateProductCommandHandler.cs",
+              "RelativeToolTip": "Core\\CQRS-.net-core.Application\\Features\\Products\\Commands\\UpdateProduct\\UpdateProductCommandHandler.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCEAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T10:51:04.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\.net-projects\\CQRS-.net-core\\Presentation\\CQRS-.net-core.Api\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Presentation\\CQRS-.net-core.Api\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\.net-projects\\CQRS-.net-core\\Presentation\\CQRS-.net-core.Api\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Presentation\\CQRS-.net-core.Api\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAwwC0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T10:36:16.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UpdateProductCommandRequest.cs",
+              "DocumentMoniker": "E:\\.net-projects\\CQRS-.net-core\\Core\\CQRS-.net-core.Application\\Features\\Products\\Commands\\UpdateProduct\\UpdateProductCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\CQRS-.net-core.Application\\Features\\Products\\Commands\\UpdateProduct\\UpdateProductCommandRequest.cs",
+              "ToolTip": "E:\\.net-projects\\CQRS-.net-core\\Core\\CQRS-.net-core.Application\\Features\\Products\\Commands\\UpdateProduct\\UpdateProductCommandRequest.cs",
+              "RelativeToolTip": "Core\\CQRS-.net-core.Application\\Features\\Products\\Commands\\UpdateProduct\\UpdateProductCommandRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T10:47:55.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DeleteProductCommandHandler.cs",
+              "DocumentMoniker": "E:\\.net-projects\\CQRS-.net-core\\Core\\CQRS-.net-core.Application\\Features\\Products\\Commands\\DeleteProduct\\DeleteProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\CQRS-.net-core.Application\\Features\\Products\\Commands\\DeleteProduct\\DeleteProductCommandHandler.cs",
+              "ToolTip": "E:\\.net-projects\\CQRS-.net-core\\Core\\CQRS-.net-core.Application\\Features\\Products\\Commands\\DeleteProduct\\DeleteProductCommandHandler.cs",
+              "RelativeToolTip": "Core\\CQRS-.net-core.Application\\Features\\Products\\Commands\\DeleteProduct\\DeleteProductCommandHandler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswBkAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:28:51.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IWriteRepository.cs",
+              "DocumentMoniker": "E:\\.net-projects\\CQRS-.net-core\\Core\\CQRS-.net-core.Application\\Interfaces\\Repositories\\IWriteRepository.cs",
+              "RelativeDocumentMoniker": "Core\\CQRS-.net-core.Application\\Interfaces\\Repositories\\IWriteRepository.cs",
+              "ToolTip": "E:\\.net-projects\\CQRS-.net-core\\Core\\CQRS-.net-core.Application\\Interfaces\\Repositories\\IWriteRepository.cs",
+              "RelativeToolTip": "Core\\CQRS-.net-core.Application\\Interfaces\\Repositories\\IWriteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T13:03:25.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DeleteProductCommandRequest.cs",
+              "DocumentMoniker": "E:\\.net-projects\\CQRS-.net-core\\Core\\CQRS-.net-core.Application\\Features\\Products\\Commands\\DeleteProduct\\DeleteProductCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\CQRS-.net-core.Application\\Features\\Products\\Commands\\DeleteProduct\\DeleteProductCommandRequest.cs",
+              "ToolTip": "E:\\.net-projects\\CQRS-.net-core\\Core\\CQRS-.net-core.Application\\Features\\Products\\Commands\\DeleteProduct\\DeleteProductCommandRequest.cs",
+              "RelativeToolTip": "Core\\CQRS-.net-core.Application\\Features\\Products\\Commands\\DeleteProduct\\DeleteProductCommandRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:28:40.614Z",
               "EditorCaption": ""
             }
           ]

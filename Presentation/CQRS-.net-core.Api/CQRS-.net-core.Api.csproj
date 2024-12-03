@@ -16,6 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\Core\CQRS-.net-core.Mapper\CQRS-.net-core.Mapper.csproj" />
     <ProjectReference Include="..\..\Infrastructure\CQRS-.net-core.Persistence\CQRS-.net-core.Persistence.csproj" />
   </ItemGroup>
 
